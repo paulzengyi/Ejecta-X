@@ -29,3 +29,7 @@ gen/
 # Gradle Files
 .gradle/
 
+project/android/assets/www/shaders
+build
+libs
+obj
